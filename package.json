@@ -3,7 +3,8 @@
   "displayName": "Onion Monochrome Theme",
   "version": "1.0.0",
   "description": "A monochrome theme for Visual Studio Code",
-  "publisher": "huyng12",
+  "repository": "https://github.com/huyng12/vscode-onion-monochrome",
+  "publisher": "rknguyen",
   "license": "MIT",
   "engines": {
     "vscode": "^1.43.0"
