@@ -1,0 +1,28 @@
+{
+  "name": "vscode-onion-monochrome-theme",
+  "displayName": "Onion Monochrome Theme",
+  "version": "1.0.0",
+  "description": "A monochrome theme for Visual Studio Code",
+  "publisher": "huyng12",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "monochrome"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Onion Monochrome Light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      }
+    ]
+  }
+}
